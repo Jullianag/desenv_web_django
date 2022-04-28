@@ -10,6 +10,7 @@ dj-database-url = "*"
 
 [dev-packages]
 gunicorn = "*"
+pytest-django = "*"
 
 [requires]
 python_version = "3.8"
