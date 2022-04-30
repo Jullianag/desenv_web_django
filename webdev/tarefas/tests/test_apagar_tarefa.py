@@ -18,3 +18,4 @@ def resposta(client, tarefa):
 
 def test_apagar_tarefa(resposta):
     assert not Tarefa.objects.exists()
+
